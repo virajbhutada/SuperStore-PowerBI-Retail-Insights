@@ -49,7 +49,5 @@ If you'd like to contribute to this project, please follow our [contribution gui
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
+This project is licensed under the [MIT License](https://github.com/virajbhutada/SuperStore-PowerBI-Retail-Insights/blob/main/LICENSE).
 
-Remember to customize the clone URL with your GitHub username.
