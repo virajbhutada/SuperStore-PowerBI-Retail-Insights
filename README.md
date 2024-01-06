@@ -25,9 +25,10 @@ Explore the world of advanced data analysis techniques, specializing in time ser
 
 Find the dataset files [here](https://drive.google.com/drive/folders/1HDkNHNslI3rgCv9LZzGtxag8JvYzss-b).
 
+---
+
 # Getting Started
 
-## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -69,6 +70,11 @@ Now you're ready to explore the SuperStore Retail Analytics dashboard in Power B
 
 ## 4. Start analyzing and exploring the data!
 
+
+---
+
+
+
 ## Contributing
 
 **We welcome contributions from the community!**
@@ -96,6 +102,8 @@ Help us enhance project documentation. If you find areas that need clarification
 If you have ideas or suggestions for improvements, engage in discussions. We value your input and would love to hear your thoughts.
 
 Remember, no contribution is too small – every effort counts! Thank you for considering contributing to our project.
+
+---
 
 ## License
 
