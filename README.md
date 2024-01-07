@@ -78,7 +78,7 @@ Now you're ready to explore the SuperStore Retail Analytics dashboard in Power B
 
 ![SuperStore Retail Analytics Dashboard](https://github.com/virajbhutada/SuperStore-PowerBI-Retail-Insights/assets/143819712/79360035-3a5f-420d-b744-5bb176ba48ad)
 
-*This snapshot provides a glimpse into the SuperStore Retail Analytics Dashboard, highlighting key insights and performance indicators. Immerse yourself in interactive visualizations for a comprehensive data exploration experience, initiating your journey to transform raw data into actionable intelligence and drive business success.*
+*This snapshot provides a glimpse into this endeavor, highlighting key insights and performance indicators. Immerse yourself in interactive visualizations for a comprehensive data exploration experience, initiating your journey to transform raw data into actionable intelligence and drive business success.*
 
 ---
 
