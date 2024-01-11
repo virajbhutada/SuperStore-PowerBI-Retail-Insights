@@ -58,9 +58,6 @@ Make sure you have the required version of Power BI Desktop installed. This proj
 
 If this project relies on external data sources, ensure that you have access and the required credentials. Update the connection strings or authentication details in the Power BI file if necessary.
 
-#### Additional Instructions
-
-Add any specific instructions or additional steps needed for setting up dependencies here.
 
 Now you're ready to explore the SuperStore Retail Analytics dashboard in Power BI!
 
