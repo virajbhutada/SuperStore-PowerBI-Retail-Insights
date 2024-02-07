@@ -70,10 +70,13 @@ Now you're ready to explore the SuperStore Retail Analytics dashboard in Power B
 
 ---
 
-## Dashboard Preview
+## Project Preview
 
 
-![SuperStore Retail Analytics Dashboard](https://github.com/virajbhutada/SuperStore-PowerBI-Retail-Insights/assets/143819712/79360035-3a5f-420d-b744-5bb176ba48ad)
+| Overview | Forecast |
+|----------|----------|
+| [![SuperStore Retail Analytics Dashboard](https://github.com/virajbhutada/SuperStore-PowerBI-Retail-Insights/assets/143819712/79360035-3a5f-420d-b744-5bb176ba48ad)](https://your-dashboard-link-here) | [![Superstore Retail Performance](https://github.com/virajbhutada/SuperStore-PowerBI-Retail-Insights/assets/143819712/601dc34a-307d-4a5b-9332-e3df5101d07a)](https://your-forecast-dashboard-link-here) |
+
 
 *This snapshot provides a glimpse into this endeavor, highlighting key insights and performance indicators. Immerse yourself in interactive visualizations for a comprehensive data exploration experience, initiating your journey to transform raw data into actionable intelligence and drive business success.*
 
